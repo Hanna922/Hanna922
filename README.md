@@ -1,4 +1,4 @@
-### hanna ٩( ᐛ )و 
+### ٩( ᐛ )و 
 
 <!--
 **Hanna922/Hanna922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&show_icons=true)
+![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&show_icons=true&theme=tokyonight)
+<!--
 [![Hanna922's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna922&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hanna922)
+-->
