@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ---
 
-![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&count_private=true&show_icons=true&theme=tokyonight)
-<!--
-[![Hanna922's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna922&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hanna922)
--->
+<div align="center">
+
+![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&count_private=true&show_icons=true&theme=tokyonight) ![Hanna922's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna922&layout=compact&theme=tokyonight)
+
+</div>
