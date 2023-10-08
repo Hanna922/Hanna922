@@ -6,7 +6,8 @@
 
 ### ✨ Activity
 - Yourssu (2021.04 ~ )
-- Central Makeus Challenge 13th Frontend (2023.06 ~ )
+- Central Makeus Challenge 13th Frontend (2023.06 ~ 2023.09)
+- Google Developer Student Clubs Soongsil 3th (2023.10 ~ )
 
 <!--
 **Hanna922/Hanna922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +28,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&count_private=true&show_icons=true&theme=tokyonight) ![Hanna922's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanna922&layout=compact&theme=tokyonight)
+![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&count_private=true&show_icons=true&theme=tokyonight)
 
 </div>
