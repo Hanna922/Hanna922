@@ -1,8 +1,11 @@
 ## Hi there 👋 
-👩‍💻 Frontend Developer
+👩‍💻 Frontend Engineer
 
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+<!--
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
+-->
 
 ### ✨ Activity
 - Yourssu (2021.04 ~ )
