@@ -1,11 +1,8 @@
-## Hi there 👋 
-👩‍💻 Frontend Engineer
+## Hi there 👋🏻
+👩🏻‍💻 Frontend Engineer
 
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-<!--
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
--->
 
 ### ✨ Activity
 - Yourssu (2021.04 ~ )
@@ -25,7 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ---
 
@@ -34,3 +30,4 @@ Here are some ideas to get you started:
 ![Hanna922's github stats](https://github-readme-stats.vercel.app/api?username=Hanna922&count_private=true&show_icons=true&theme=tokyonight)
 
 </div>
+-->
