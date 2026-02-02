@@ -1,13 +1,8 @@
-## Hi there 👋🏻
-👩🏻‍💻 Frontend Engineer
-
-[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
-
 ### ✨ Activity
-- Yourssu (2021.04 ~ )
+- Woorifisa 6th (2026.01 ~ )
+- Yourssu (2021.04 ~ 2025.07)
+- Google Developer Student Clubs Soongsil 3th (2023.10 ~ 2024.09)
 - Central Makeus Challenge 13th Frontend (2023.06 ~ 2023.09)
-- Google Developer Student Clubs Soongsil 3th (2023.10 ~ )
 
 <!--
 **Hanna922/Hanna922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
